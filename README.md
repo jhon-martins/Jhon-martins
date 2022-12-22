@@ -1,7 +1,6 @@
 
 
-Bem-vindo ao meu perfil
-
+BEM-VINDO(A) AO MEU PERFIL
 ##
 
 Meu nome é Jhonata Martins, tudo bem? Abaixo estão minhas redes sociais para contato e alguns repositórios. fique à vontade
